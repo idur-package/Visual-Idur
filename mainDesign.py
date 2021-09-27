@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'qtdesign.ui'
+# Form implementation generated from reading ui file 'main.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.4
 #
@@ -59,13 +59,13 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Visual Idur"))
         self.InstallButton.setText(_translate("MainWindow", "Install"))
         self.RemoveButton.setText(_translate("MainWindow", "Remove"))
         self.SearchButton.setText(_translate("MainWindow", "Search"))
         self.ShowButton.setText(_translate("MainWindow", "Show Details"))
         self.UpdateButton.setText(_translate("MainWindow", "Update"))
-        self.Tittle.setText(_translate("MainWindow", "BoxPackage"))
+        self.Tittle.setText(_translate("MainWindow", "Visual Idur"))
         self.menuHelp.setTitle(_translate("MainWindow", "Help"))
         self.actionAbout.setText(_translate("MainWindow", "About"))
         self.actionForum.setText(_translate("MainWindow", "Forum"))

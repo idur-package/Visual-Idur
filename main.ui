@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Visual Idur</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QPushButton" name="InstallButton">
@@ -89,7 +89,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>BoxPackage</string>
+     <string>Visual Idur</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignCenter</set>
