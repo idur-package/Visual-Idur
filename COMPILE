@@ -1,0 +1,6 @@
+
+
+Command to Compile:
+
+pyinstaller --distpath export/ -F -n visual-idur src/init.py
+
